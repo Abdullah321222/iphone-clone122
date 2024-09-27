@@ -1,9 +1,5 @@
 # iPhone Clone
 
-![Demo](./readme_assets/demo.gif) <!-- Link to your demo GIF -->
-
-## Demo
-Try the live version of the app [here](https://your-live-site-link.com).
 
 ## Project Overview
 The **iPhone Clone** project is a web application built using the MERN stack (MongoDB, Express.js, React, Node.js) that replicates the look and feel of an iPhone interface. The app features a customizable home screen with clickable app icons, notifications, and settings.
